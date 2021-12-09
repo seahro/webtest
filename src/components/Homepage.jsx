@@ -39,6 +39,6 @@ const Homepage = () => {
             <News simplified/>
         </>
     )
-}
+};
 
-export default Homepage
+export default Homepage;
