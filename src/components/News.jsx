@@ -61,6 +61,6 @@ const News = ({ simplified }) => {
             ))}
         </Row>
     )
-}
+};
 
-export default News
+export default News;

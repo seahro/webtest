@@ -30,6 +30,6 @@ const navbar = () => {
             </Menu>
         </div>
     )
-}
+};
 
-export default navbar
+export default navbar;
